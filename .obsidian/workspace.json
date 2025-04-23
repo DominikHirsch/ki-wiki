@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "03_AI_Today/KI Aktuell.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "KI Aktuell"
             }
           }
         ],
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "03_AI_Today/KI Aktuell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für index"
+              "title": "Rückverweise für KI Aktuell"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "03_AI_Today/KI Aktuell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von index öffnen"
+              "title": "Ausgehende Links von KI Aktuell öffnen"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "03_AI_Today/KI Aktuell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von index"
+              "title": "Gliederung von KI Aktuell"
             }
           }
         ]
@@ -179,16 +179,16 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "2fee958db2252946",
+  "active": "5c79ce53b703f209",
   "lastOpenFiles": [
+    "index.md",
+    "02_AI_History/KI Geschichte.md",
+    "01_Prompt_Engineering/Prompt Engineering.md",
+    "03_AI_Today/KI Aktuell.md",
     "_config.yml.sb-01b30507-X5o4Gw",
     "_config.yml.sb-01b30507-DlcUjq",
     "_config.md",
     "_config.yml",
-    "index.md",
-    "03_AI_Today/KI Aktuell.md",
-    "02_AI_History/KI Geschichte.md",
-    "01_Prompt_Engineering/Prompt Engineering.md",
     "03_AI_Today",
     "02_AI_History",
     "01_Prompt_Engineering",
