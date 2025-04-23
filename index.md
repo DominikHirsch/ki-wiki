@@ -8,3 +8,4 @@ Willkommen im **KI-Wiki**. Dieses Wiki behandelt verschiedene Themen im Bereich 
 - [KI Aktuell](03_AI_Today/KI%20Aktuell.md)
 
 Weitere Themen und Inhalte werden in den kommenden Wochen hinzugefügt.
+Test, ob der ganze Github Prozess läuft. Schau mer mal.
