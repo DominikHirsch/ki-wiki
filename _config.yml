@@ -1,1 +1,10 @@
-markdown: kramdown
+title: KI Wiki
+theme: just-the-docs
+just_the_docs:
+  navigation:
+    - title: Prompt-Engineering
+      url: /01_Prompt_Engineering/Prompt-Engineering
+    - title: KI Geschichte
+      url: /02_AI_History/KI-Geschichte
+    - title: KI Aktuell
+      url: /03_AI_Today/KI-Aktuell

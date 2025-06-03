@@ -25,7 +25,7 @@
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -181,10 +181,14 @@
   },
   "active": "5c79ce53b703f209",
   "lastOpenFiles": [
-    "01_Prompt_Engineering/Prompt Engineering.md",
-    "index.md",
+    "_config.yml.sb-71b94e70-2LhFXN",
     "03_AI_Today/KI Aktuell.md",
+    "03_AI_Today/KI_Aktuell.md",
+    "02_AI_History/KI_Geschichte.md",
+    "01_Prompt_Engineering/Prompt_Engineering.md",
+    "index.md",
     "02_AI_History/KI Geschichte.md",
+    "01_Prompt_Engineering/Prompt Engineering.md",
     "_config.yml.sb-01b30507-X5o4Gw",
     "_config.yml.sb-01b30507-DlcUjq",
     "_config.md",
