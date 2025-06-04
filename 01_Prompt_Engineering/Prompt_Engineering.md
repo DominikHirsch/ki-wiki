@@ -10,6 +10,8 @@ nav_order: 1
 
 Ein **Prompt** ist eine Eingabe oder Anweisung, die ein Nutzer:innen einer KI (insbesondere LLMs – Large Language Models) gibt, um eine bestimmte Antwort oder ein bestimmtes Verhalten zu erzeugen. Im Bildungsbereich spielt Prompt Engineering eine Schlüsselrolle, da gut gestaltete Prompts die Qualität und Relevanz der KI-Ausgaben maßgeblich beeinflussen.
 
+Hallo Sarah. Jetzt hier aber.
+
 ---
 
 ## 2. Aufbau und Bestandteile eines Prompts
