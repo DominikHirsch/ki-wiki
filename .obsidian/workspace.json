@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Prompt_Engineering/Prompt_Engineering.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prompt_Engineering"
+              "title": "index"
             }
           },
           {
@@ -198,15 +198,15 @@
   },
   "active": "40a5c53645597d61",
   "lastOpenFiles": [
+    "07_Soziologische_Verortung/Soziologische_Verortung.md",
+    "index.md",
+    "01_Prompt_Engineering/Prompt_Engineering.md",
     "02_AI_History/KI_Geschichte.md",
     "03_AI_Today/KI_Aktuell.md",
     "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
     "05_Anwendungen_KI/Anwendungen_KI.md",
     "06_Lerntheorie_Psychologie/Lerntheorie_Psychologie.md",
-    "07_Soziologische_Verortung/Soziologische_Verortung.md",
-    "index.md",
     "08_Ethische_Reflexion/Ethische_Reflexion.md",
-    "01_Prompt_Engineering/Prompt_Engineering.md",
     "08_Ethische_Reflexion",
     "07_Soziologische_Verortung",
     "06_Lerntheorie_Psychologie",

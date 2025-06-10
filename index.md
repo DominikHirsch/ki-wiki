@@ -13,7 +13,7 @@ Willkommen im **KI-Wiki**. Dieses Wiki behandelt verschiedene Themen im Bereich 
 - [Rechtlicher Rahmen](./04_Rechtlicher_Rahmen/Rechtlicher_Rahmen)
 - [Anwendungsmöglichkeiten von KI in Bildungsprozessen](./05_Anwendungen_KI/Anwendungen_KI)
 - [Lerntheoretische / Psychologische Einordnung](./06_Lerntheorie_Psychologie/Lerntheorie_Psychologie)
-- [Soziologische Verortung](./07_Soziologische_Verortung/Soziologische_Verortung)
+- [Soziologische Einordnung](./07_Soziologische_Verortung/Soziologische_Verortung)
 - [Ethische Reflexion](./08_Ethische_Reflexion/Ethische_Reflexion)
 
 Weitere Themen und Inhalte werden in den kommenden Wochen hinzugefügt.
