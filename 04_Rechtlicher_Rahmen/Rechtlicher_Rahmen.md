@@ -117,4 +117,3 @@ Der Einsatz von Künstlicher Intelligenz (KI) in Schulen und Hochschulen wirft v
 - **KMK-Empfehlung „Digitale Bildung und Datenschutz“**  
 - **Studie**: „Rechtliche Herausforderungen beim Einsatz von KI in Schulen“ (2023, OER-Report)  
 - **Buch**: “Datenschutz in der Digitalen Schule” (2022)
-
