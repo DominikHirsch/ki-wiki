@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "01_Prompt_Engineering/Prompt_Engineering.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Prompt_Engineering"
             }
           },
           {
@@ -198,17 +198,17 @@
   },
   "active": "40a5c53645597d61",
   "lastOpenFiles": [
+    "02_AI_History/KI_Geschichte.md",
+    "03_AI_Today/KI_Aktuell.md",
     "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
+    "05_Anwendungen_KI/Anwendungen_KI.md",
     "06_Lerntheorie_Psychologie/Lerntheorie_Psychologie.md",
     "07_Soziologische_Verortung/Soziologische_Verortung.md",
-    "08_Ethische_Reflexion/Ethische_Reflexion.md",
     "index.md",
-    "02_AI_History/KI_Geschichte.md",
+    "08_Ethische_Reflexion/Ethische_Reflexion.md",
     "01_Prompt_Engineering/Prompt_Engineering.md",
-    "03_AI_Today/KI_Aktuell.md",
     "08_Ethische_Reflexion",
     "07_Soziologische_Verortung",
-    "05_Anwendungen_KI/Anwendungen_KI.md",
     "06_Lerntheorie_Psychologie",
     "05_Anwendungen_KI",
     "04_Rechtlicher_Rahmen",

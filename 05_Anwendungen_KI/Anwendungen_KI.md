@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Anwendungsmöglichkeiten von KI in Bildungsprozessen
-nav_order: 5
 ---
 
 # Anwendungsmöglichkeiten von KI in Bildungsprozessen

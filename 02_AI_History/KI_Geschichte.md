@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Geschichte der künstlichen Intelligenz
-nav_order: 2
 ---
 
 # Geschichte der künstlichen Intelligenz

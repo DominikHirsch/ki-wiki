@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Rechtlicher Rahmen für KI in Bildungsinstitutionen
-nav_order: 4
 ---
 
 # Rechtlicher Rahmen für KI in Bildungsinstitutionen

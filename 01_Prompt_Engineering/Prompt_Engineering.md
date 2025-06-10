@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Prompt Engineering
-nav_order: 1
 ---
 
 # Prompt Engineering

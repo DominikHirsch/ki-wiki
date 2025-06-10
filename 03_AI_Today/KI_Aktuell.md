@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Künstliche Intelligenz heute
-nav_order: 3
 ---
 
 # Künstliche Intelligenz heute
