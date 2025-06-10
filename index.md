@@ -1,7 +1,5 @@
 ---
-layout: default
 title: KI-Wiki
-nav_order: 1
 ---
 
 # KI-Wiki
