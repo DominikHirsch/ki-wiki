@@ -17,3 +17,4 @@ Willkommen im **KI-Wiki**. Dieses Wiki behandelt verschiedene Themen im Bereich 
 - [Ethische Reflexion](./08_Ethische_Reflexion/Ethische_Reflexion)
 
 Weitere Themen und Inhalte werden in den kommenden Wochen hinzugefügt.
+Hallo Alle.
