@@ -30,8 +30,8 @@ Zurück zur Übersicht: [Rechtlicher Rahmen](./Rechtlicher_Rahmen)
 --- 
 
 ###### Weiterführende Ressourcen
-- **DSGVO-Text**: https://dsgvo-gesetz.de/  
-- **Urheberrechtsgesetz (UrhG)**: https://www.gesetze-im-internet.de/urhg/  
+- **DSGVO-Text**: [https://dsgvo-gesetz.de](https://dsgvo-gesetz.de/)  
+- **Urheberrechtsgesetz (UrhG)**: [https://www.gesetze-im-internet.de/urhg](https://www.gesetze-im-internet.de/urhg/)
 - **KMK-Empfehlung „Digitale Bildung und Datenschutz“**  
 - **Studie**: „Rechtliche Herausforderungen beim Einsatz von KI in Schulen“ (2023, OER-Report)  
 - **Buch**: “Datenschutz in der Digitalen Schule” (2022)

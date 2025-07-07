@@ -1,5 +1,5 @@
 ---
-title: Künstliche Intelligenz heute
+title: Künstliche Intelligenz
 ---
 
 # Künstliche Intelligenz heute

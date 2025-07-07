@@ -13,64 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
+                "file": "03_AI_Today/KI_Aktuell.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rechtlicher_Rahmen"
+              "title": "KI_Aktuell"
             }
           }
         ]
-      },
-      {
-        "id": "cf589b3b6a01a63e",
-        "type": "split",
-        "children": [
-          {
-            "id": "8bb14f6bbb6a13ce",
-            "type": "tabs",
-            "dimension": 50.24734982332155,
-            "children": [
-              {
-                "id": "a2e49b58935fc46f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "04_Rechtlicher_Rahmen/Urheberrecht.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Urheberrecht"
-                }
-              }
-            ]
-          },
-          {
-            "id": "c70d979b75d13594",
-            "type": "tabs",
-            "dimension": 49.75265017667845,
-            "children": [
-              {
-                "id": "e1982c1555e6ae55",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01_Prompt_Engineering/Prompt_Engineering.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Prompt_Engineering"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -217,18 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2e49b58935fc46f",
+  "active": "2fee958db2252946",
   "lastOpenFiles": [
+    "04_Rechtlicher_Rahmen/Urheberrecht.md",
+    "04_Rechtlicher_Rahmen/DSGVO.md",
+    "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
+    "04_Rechtlicher_Rahmen/Ethik_Kodex.md",
+    "index.md",
     "04_Rechtlicher_Rahmen/Schul_versus_Hochschule.md",
     "04_Rechtlicher_Rahmen/Ressourcen.md",
-    "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
     "04_Rechtlicher_Rahmen/Haftung.md",
-    "04_Rechtlicher_Rahmen/Ethik_Kodex.md",
     "01_Prompt_Engineering/Prompt_Engineering.md",
-    "04_Rechtlicher_Rahmen/DSGVO.md",
-    "04_Rechtlicher_Rahmen/Urheberrecht.md",
     "03_AI_Today/KI_Aktuell.md",
-    "index.md",
     "02_AI_History/KI_Geschichte.md",
     "08_Ethische_Reflexion/Ethische_Reflexion.md",
     "06_Lerntheorie_Psychologie/Lerntheorie_Psychologie.md",
