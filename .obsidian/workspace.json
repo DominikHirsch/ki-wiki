@@ -30,7 +30,7 @@
           {
             "id": "8bb14f6bbb6a13ce",
             "type": "tabs",
-            "dimension": 74.0819209039548,
+            "dimension": 50.24734982332155,
             "children": [
               {
                 "id": "a2e49b58935fc46f",
@@ -38,12 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "04_Rechtlicher_Rahmen/Ethik_Kodex.md",
+                    "file": "04_Rechtlicher_Rahmen/Urheberrecht.md",
                     "mode": "source",
-                    "source": false
+                    "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Ethik_Kodex"
+                  "title": "Urheberrecht"
                 }
               }
             ]
@@ -51,7 +51,7 @@
           {
             "id": "c70d979b75d13594",
             "type": "tabs",
-            "dimension": 25.918079096045197,
+            "dimension": 49.75265017667845,
             "children": [
               {
                 "id": "e1982c1555e6ae55",
@@ -59,12 +59,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "04_Rechtlicher_Rahmen/DSGVO.md",
+                    "file": "01_Prompt_Engineering/Prompt_Engineering.md",
                     "mode": "source",
-                    "source": false
+                    "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "DSGVO"
+                  "title": "Prompt_Engineering"
                 }
               }
             ]
@@ -219,13 +219,14 @@
   },
   "active": "a2e49b58935fc46f",
   "lastOpenFiles": [
-    "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
-    "04_Rechtlicher_Rahmen/Ethik_Kodex.md",
-    "04_Rechtlicher_Rahmen/Haftung.md",
     "04_Rechtlicher_Rahmen/Schul_versus_Hochschule.md",
+    "04_Rechtlicher_Rahmen/Ressourcen.md",
+    "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
+    "04_Rechtlicher_Rahmen/Haftung.md",
+    "04_Rechtlicher_Rahmen/Ethik_Kodex.md",
+    "01_Prompt_Engineering/Prompt_Engineering.md",
     "04_Rechtlicher_Rahmen/DSGVO.md",
     "04_Rechtlicher_Rahmen/Urheberrecht.md",
-    "04_Rechtlicher_Rahmen/Ressourcen.md",
     "03_AI_Today/KI_Aktuell.md",
     "index.md",
     "02_AI_History/KI_Geschichte.md",
@@ -233,7 +234,6 @@
     "06_Lerntheorie_Psychologie/Lerntheorie_Psychologie.md",
     "05_Anwendungen_KI/Anwendungen_KI.md",
     "07_Soziologische_Verortung/Soziologische_Verortung.md",
-    "01_Prompt_Engineering/Prompt_Engineering.md",
     "08_Ethische_Reflexion",
     "07_Soziologische_Verortung",
     "06_Lerntheorie_Psychologie",
