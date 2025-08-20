@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rechtlicher_Rahmen"
+              "title": "index"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "40a5c53645597d61",
   "lastOpenFiles": [
+    "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
     "04_Rechtlicher_Rahmen/DSGVO.md",
     "08_Ethische_Reflexion/Ethische_Reflexion.md",
     "index.md",
@@ -177,7 +178,6 @@
     "04_Rechtlicher_Rahmen/Urheberrecht.md",
     "04_Rechtlicher_Rahmen/Schul_versus_Hochschule.md",
     "04_Rechtlicher_Rahmen/Ressourcen.md",
-    "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
     "04_Rechtlicher_Rahmen/Haftung.md",
     "04_Rechtlicher_Rahmen/Ethik_Kodex.md",
     "03_AI_Today/KI_Aktuell.md",
