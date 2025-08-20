@@ -20,7 +20,6 @@ In diesem Bereich findest du rechtliche Informationen und Überlegungen zur Nutz
 - 📄 [Haftung & Verantwortung](./Haftung)
 - 📄 [Vergleich: Schule vs. Hochschule](./Schul_versus_Hochschule)
 - 📄 [Ethische Aspekte & Kodizes](./Ethik_Kodex)
-- 📄 [Ressourcen & Gesetzestexte](./Ressourcen)
 
 ---
 
