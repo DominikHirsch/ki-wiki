@@ -1,9 +1,9 @@
 title: 'KI-Wiki'
 description: 'Wiki zum Einsatz Künstlicher Intelligenz in Bildungsprozessen'
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Navigation Sidebar
-just-thedocs:
+just-the-docs:
     collections:
         pages: 
             name: Wiki
@@ -13,6 +13,10 @@ just-thedocs:
 # Artikel TOC
 markdown: kramdown
 kramdown:
-    toc_levels: 1..5
+    toc_levels: 1..6
     
-    
+plugins:
+  - jekyll-remote-theme
+
+# Navigation & Struktur
+nav_sort: case_sensitive    
