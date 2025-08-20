@@ -1,3 +1,10 @@
+---
+title: Haftung
+layout: default
+parent: Rechtlicher Rahmen für KI in Bildungsinstitutionen
+nav_order: 3
+---
+
 1. **Produkthaftung**  
    - KI-Anbieter können haftbar sein bei nachweisbaren Fehlfunktionen (z. B. fehlerhafte Diagnosen in Bildungssoftware).
 

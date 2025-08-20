@@ -1,5 +1,8 @@
 ---
 title: Soziologische Verortung von KI im Bildungssystem
+layout: default
+nav_order: 7
+has_children: false
 ---
 
 # Soziologische Verortung von KI im Bildungssystem

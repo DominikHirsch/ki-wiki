@@ -1,5 +1,8 @@
 ---
 title: Geschichte der künstlichen Intelligenz
+layout: default
+nav_order: 2
+has_children: false
 ---
 
 # Geschichte der künstlichen Intelligenz

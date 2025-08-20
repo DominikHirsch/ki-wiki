@@ -1,4 +1,9 @@
-
+---
+title: Datenschutz & DSGVO
+layout: default
+parent: Rechtlicher Rahmen für KI in Bildungsinstitutionen
+nav_order: 1
+---
 
 # Grundlagen der DSGVO
 - **Personenbezogene Daten**: Alle Informationen, die sich auf eine identifizierte oder identifizierbare Person beziehen (§ 4 Nr. 1 DSGVO).

@@ -1,3 +1,9 @@
+---
+title: Schule versus Hochschule
+layout: default
+parent: Rechtlicher Rahmen für KI in Bildungsinstitutionen
+nav_order: 5
+---
 Urheberrecht und KI-generierte Inhalte
 
 # Urheberrechtliche Grundlagen

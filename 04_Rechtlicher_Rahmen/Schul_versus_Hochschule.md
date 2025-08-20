@@ -1,3 +1,9 @@
+---
+title: Schule versus Hochschule
+layout: default
+parent: Rechtlicher Rahmen für KI in Bildungsinstitutionen
+nav_order: 4
+---
 Schulischer vs. Universitärer Kontext
 
 | **Kategorie**       | **Schule**                                                                                 | **Hochschule**                                                                         |
