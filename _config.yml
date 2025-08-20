@@ -1,3 +1,18 @@
-title: KI-Wiki
-theme: jekyll-theme-cayman
+title: 'KI-Wiki'
+description: 'Wiki zum Einsatz Künstlicher Intelligenz in Bildungsprozessen'
+theme: just-the-docs
+
+# Navigation Sidebar
+just-thedocs:
+    collections:
+        pages: 
+            name: Wiki
+            nav_exlude: false
+            search_exclude: false
+            
+# Artikel TOC
 markdown: kramdown
+kramdown:
+    toc_levels: 1..5
+    
+    
