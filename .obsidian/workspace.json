@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "01_Prompt_Engineering/test.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "test"
             }
           }
         ],
@@ -184,8 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fee958db2252946",
+  "active": "5e5d51ef40f61cc2",
   "lastOpenFiles": [
+    "index.md",
+    "01_Prompt_Engineering/test.md",
     "_includes/footer_custom.html",
     "_includes/head_custom.html",
     "_includes",
@@ -195,7 +197,6 @@
     "assets/style.css",
     "assets",
     "05_Anwendungen_KI/Anwendungen_KI.md",
-    "index.md",
     "01_Prompt_Engineering/Prompt_Engineering.md",
     "02_AI_History/KI_Geschichte.md",
     "03_AI_Today/KI_Aktuell.md",
@@ -211,7 +212,6 @@
     "08_Ethische_Reflexion",
     "07_Soziologische_Verortung",
     "06_Lerntheorie_Psychologie",
-    "05_Anwendungen_KI",
     "03_AI_Today/KI Aktuell.md",
     "02_AI_History/KI Geschichte.md",
     "01_Prompt_Engineering/Prompt Engineering.md",
