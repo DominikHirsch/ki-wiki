@@ -9,7 +9,9 @@ has_children: true
 
 ## Einleitung
 
-In diesem Bereich findest du rechtliche Informationen und Überlegungen zur Nutzung von KI in Bildungskontexten – von Datenschutz über Urheberrecht bis hin zu institutionellen Haftungsfragen.
+KI-Systeme bieten große Potenziale für Lehre und Lernen. Gleichzeitig entstehen rechtliche Herausforderungen, die sorgfältig berücksichtigt werden müssen. Dieses Modul beleuchtet zentrale Fragen und ordnet sie in die geltende Rechtslage ein.
+
+Der Einsatz von Künstlicher Intelligenz (KI) in Schulen und Hochschulen wirft vielfältige rechtliche Fragestellungen auf. Insbesondere geht es um den Datenschutz, Urheberrechte, Haftungsfragen sowie spezifische Regelungen im Schul- und Hochschulkontext.
 
 ---
 
@@ -20,14 +22,6 @@ In diesem Bereich findest du rechtliche Informationen und Überlegungen zur Nutz
 - 📄 [Haftung & Verantwortung](./Haftung)
 - 📄 [Vergleich: Schule vs. Hochschule](./Schul_versus_Hochschule)
 - 📄 [Ethische Aspekte & Kodizes](./Ethik_Kodex)
-
----
-
-## Einleitung
-
-KI-Systeme bieten große Potenziale für Lehre und Lernen. Gleichzeitig entstehen rechtliche Herausforderungen, die sorgfältig berücksichtigt werden müssen. Dieses Modul beleuchtet zentrale Fragen und ordnet sie in die geltende Rechtslage ein.
-
-Der Einsatz von Künstlicher Intelligenz (KI) in Schulen und Hochschulen wirft vielfältige rechtliche Fragestellungen auf. Insbesondere geht es um den Datenschutz, Urheberrechte, Haftungsfragen sowie spezifische Regelungen im Schul- und Hochschulkontext.
 
 ---
 

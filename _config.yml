@@ -11,29 +11,3 @@ plugins:
   - jekyll-remote-theme
 
 nav_sort: case_sensitive
-
-
-# title: 'KI-Wiki'
-# description: 'Wiki zum Einsatz Künstlicher Intelligenz in Bildungsprozessen'
-# remote_theme: just-the-docs/just-the-docs
-
-# Navigation Sidebar
-# just-the-docs:
-  #  collections:
-   #     pages: 
-    #        name: Wiki
-     #       nav_exclude: false
-      #      search_exclude: false
-   # toc: true                       # enable on-page navigation/on-page toc
-   # toc_depth: 6
-    
-# enable sidebar navigation
-# markdown: kramdown
-# kramdown:
-#    toc_levels: 1..6
-    
-# plugins:
-#   - jekyll-remote-theme
-
-# Navigation & Struktur
-# nav_sort: case_sensitive    
