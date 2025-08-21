@@ -3,7 +3,6 @@ title: Ethik Kodex
 layout: default
 parent: Rechtlicher Rahmen für KI in Bildungsinstitutionen
 nav_order: 2
-toc: true
 ---
 # Rechtliche Grauzonen und verantwortungsvolles Handeln
 

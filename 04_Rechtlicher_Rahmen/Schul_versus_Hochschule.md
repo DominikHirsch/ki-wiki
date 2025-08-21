@@ -3,7 +3,6 @@ title: Schule versus Hochschule
 layout: default
 parent: Rechtlicher Rahmen für KI in Bildungsinstitutionen
 nav_order: 4
-toc: true
 ---
 Schulischer vs. Universitärer Kontext
 

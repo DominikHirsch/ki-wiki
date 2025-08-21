@@ -3,7 +3,6 @@ title: Schule versus Hochschule
 layout: default
 parent: Rechtlicher Rahmen für KI in Bildungsinstitutionen
 nav_order: 5
-toc: true
 ---
 Urheberrecht und KI-generierte Inhalte
 

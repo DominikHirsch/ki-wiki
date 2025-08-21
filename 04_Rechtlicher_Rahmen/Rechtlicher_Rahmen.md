@@ -3,7 +3,6 @@ title: Rechtlicher Rahmen für KI in Bildungsinstitutionen
 layout: default
 nav_order: 4
 has_children: true
-toc: true
 ---
 
 # Rechtlicher Rahmen für KI in Bildungsinstitutionen

@@ -3,7 +3,6 @@ title: Lerntheoretische / Psychologische Einordnung
 layout: default
 nav_order: 6
 has_children: false
-toc: true
 ---
 
 # Lerntheoretische / Psychologische Einordnung von KI im Lernen

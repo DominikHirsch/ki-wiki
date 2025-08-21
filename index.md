@@ -1,21 +1,35 @@
 ---
 title: KI-Wiki
 layout: default
-has_children: false
-toc: true
+nav_exclude: true   # optional: Startseite aus der linken Sidebar ausblenden
 ---
+
 # KI-Wiki
 
-Willkommen im **KI-Wiki**. Dieses Wiki behandelt verschiedene Themen im Bereich der Künstlichen Intelligenz und ihrer Anwendung im Bildungsbereich.
+## Überblick
+Willkommen im **KI-Wiki** …
 
-## Themenbereiche:
-- [Prompt-Engineering](./01_Prompt_Engineering/Prompt_Engineering)
-- [KI Geschichte](./02_AI_History/KI_Geschichte)
-- [KI Aktuell](./03_AI_Today/KI_Aktuell)
-- [Rechtlicher Rahmen](./04_Rechtlicher_Rahmen/Rechtlicher_Rahmen)
-- [Anwendungsmöglichkeiten von KI in Bildungsprozessen](./05_Anwendungen_KI/Anwendungen_KI)
-- [Lerntheoretische / Psychologische Einordnung](./06_Lerntheorie_Psychologie/Lerntheorie_Psychologie)
-- [Soziologische Einordnung](./07_Soziologische_Verortung/Soziologische_Verortung)
-- [Ethische Reflexion](./08_Ethische_Reflexion/Ethische_Reflexion)
+## Themenbereiche
+### Prompt-Engineering
+[Zum Kapitel](./01_Prompt_Engineering/Prompt_Engineering)
 
+### KI Geschichte
+[Zum Kapitel](./02_AI_History/KI_Geschichte)
 
+### Aktuelle KI
+[Zum Kapitel](./03_AI_Today/KI_Aktuell)
+
+### Rechtlicher Rahmen
+[Zum Kapitel](./04_Rechtlicher_Rahmen/Rechtlicher_Rahmen)
+
+### Anwendungen
+[Zum Kapitel](./05_Anwendungen_KI/Anwendungen_KI)
+
+### Lerntheorie & Psychologie
+[Zum Kapitel](./06_Lerntheorie_Psychologie/Lerntheorie_Psychologie)
+
+### Soziologische Einordnung
+[Zum Kapitel](./07_Soziologische_Verortung/Soziologische_Verortung)
+
+### Ethische Reflexion
+[Zum Kapitel](./08_Ethische_Reflexion/Ethische_Reflexion)

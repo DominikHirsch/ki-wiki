@@ -3,7 +3,6 @@ title: Haftung
 layout: default
 parent: Rechtlicher Rahmen für KI in Bildungsinstitutionen
 nav_order: 3
-toc: true
 ---
 
 1. **Produkthaftung**  

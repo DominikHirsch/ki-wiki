@@ -3,7 +3,6 @@ title: Ethische Reflexion des KI-Einsatzes in Bildungsprozessen
 layout: default
 nav_order: 8
 has_children: false
-toc: true
 ---
 
 # Ethische Reflexion des KI-Einsatzes in Bildungsprozessen
