@@ -184,8 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e5d51ef40f61cc2",
+  "active": "2fee958db2252946",
   "lastOpenFiles": [
+    "_includes/footer_custom.html",
+    "_includes/head_custom.html",
+    "_includes",
     "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
     "_layouts/default.html",
     "_layouts",
@@ -209,8 +212,6 @@
     "07_Soziologische_Verortung",
     "06_Lerntheorie_Psychologie",
     "05_Anwendungen_KI",
-    "04_Rechtlicher_Rahmen",
-    "_config.yml.sb-71b94e70-2LhFXN",
     "03_AI_Today/KI Aktuell.md",
     "02_AI_History/KI Geschichte.md",
     "01_Prompt_Engineering/Prompt Engineering.md",

@@ -1,0 +1,27 @@
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
+<script>
+  // Graph automatisch oberhalb der TOC einfügen
+  document.addEventListener("DOMContentLoaded", function () {
+    const toc = document.querySelector(".side-bar ~ .main-content .toc");
+    if (toc) {
+      const graphBox = document.createElement("div");
+      graphBox.id = "graph-container";
+      graphBox.innerHTML = `
+        <div class="graph-title">Interaktiver Graph</div>
+        <pre class="mermaid">
+graph TD;
+  A[KI-Wiki] --> B[Prompt-Engineering];
+  A --> C[KI Geschichte];
+  A --> D[KI Aktuell];
+  A --> E[Rechtlicher Rahmen];
+        </pre>
+      `;
+      toc.parentNode.insertBefore(graphBox, toc);
+      mermaid.run({ nodes: [graphBox] });
+    }
+  });
+</script>
