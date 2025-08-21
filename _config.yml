@@ -7,10 +7,10 @@ just-the-docs:
     collections:
         pages: 
             name: Wiki
-            nav_exlude: false
+            nav_exclude: false
             search_exclude: false
     toc:
-        enable: true            # enable on-page navigation
+        enabled: true            # enable on-page navigation
         heading_level: 1        # starting heading level
         max_heading_level: 6    # ending heading level            
     
