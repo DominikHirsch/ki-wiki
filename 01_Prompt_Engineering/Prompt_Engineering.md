@@ -63,13 +63,13 @@ Hallo Sarah. Jetzt hier aber.
 
 ## 4. Best Practices für effektives Prompting im Bildungskontext
 
-1. **Klarheit & Präzision**  
+### 1. Klarheit & Präzision  
    - Vermeide Mehrdeutigkeiten. Gib genaue Anweisungen, z. B. "Erkläre den Unterschied zwischen arithmetischem und geometrischem Mittel."
 
-2. **Kontextualisierung**  
+### 2. Kontextualisierung  
    - Stelle den Hintergrund bereit. Beispiel: "In einer 9. Klasse, Kapitel Bruchrechnung…"
 
-3. **Iteratives Vorgehen**  
+### 3. Iteratives Vorgehen
    - Teste und verfeinere Prompts schrittweise.  
    - Arbeite nach dem **Plan-Do-Check-Act (PDCA)-Prinzip**:  
      1. Plan: Prompt entwerfen  
@@ -77,11 +77,11 @@ Hallo Sarah. Jetzt hier aber.
      3. Check: Ergebnis evaluieren  
      4. Act: Prompt anpassen  
 
-4. **Few-Shot- oder Chain-of-Thought-Techniken**  
+### 4. Few-Shot- oder Chain-of-Thought-Techniken
    - **Few-Shot:** Zeige der KI Beispiele (Input→Output).  
    - **Chain of Thought:** Fordere die KI auf, Zwischenschritte offline zu notieren ("Denke Schritt für Schritt...").
 
-5. **Rollen- und Stilvorgaben**  
+### 5. Rollen- und Stilvorgaben
    - Gib der KI eine Rolle (z. B. "Du bist ein erfahrener Mathematiklehrer, der in einfachen Worten erklärt.").  
    - Definiere stilistische Vorgaben: formell/informell, komplex/einfach.
 
