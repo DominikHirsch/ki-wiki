@@ -3,6 +3,7 @@ title: Datenschutz & DSGVO
 layout: default
 parent: Rechtlicher Rahmen für KI in Bildungsinstitutionen
 nav_order: 1
+toc: true
 ---
 
 # Grundlagen der DSGVO

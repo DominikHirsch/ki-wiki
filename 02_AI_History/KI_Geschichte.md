@@ -3,6 +3,7 @@ title: Geschichte der künstlichen Intelligenz
 layout: default
 nav_order: 2
 has_children: false
+toc: true
 ---
 
 # Geschichte der künstlichen Intelligenz

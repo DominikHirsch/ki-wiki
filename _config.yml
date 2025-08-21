@@ -9,10 +9,8 @@ just-the-docs:
             name: Wiki
             nav_exclude: false
             search_exclude: false
-    toc:
-        enabled: true            # enable on-page navigation
-        heading_level: 1        # starting heading level
-        max_heading_level: 6    # ending heading level            
+    toc: true                       # enable on-page navigation/on-page toc
+    toc_depth: 6
     
 # enable sidebar navigation
 markdown: kramdown
@@ -24,4 +22,3 @@ plugins:
 
 # Navigation & Struktur
 nav_sort: case_sensitive    
-

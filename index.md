@@ -2,6 +2,7 @@
 title: KI-Wiki
 layout: default
 has_children: false
+toc: true
 ---
 # KI-Wiki
 
