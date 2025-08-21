@@ -187,6 +187,11 @@
   "active": "5e5d51ef40f61cc2",
   "lastOpenFiles": [
     "04_Rechtlicher_Rahmen/Rechtlicher_Rahmen.md",
+    "_layouts/default.html",
+    "_layouts",
+    "assets/style.css",
+    "assets",
+    "05_Anwendungen_KI/Anwendungen_KI.md",
     "index.md",
     "01_Prompt_Engineering/Prompt_Engineering.md",
     "02_AI_History/KI_Geschichte.md",
@@ -196,7 +201,6 @@
     "04_Rechtlicher_Rahmen/Haftung.md",
     "04_Rechtlicher_Rahmen/Schul_versus_Hochschule.md",
     "04_Rechtlicher_Rahmen/Urheberrecht.md",
-    "05_Anwendungen_KI/Anwendungen_KI.md",
     "06_Lerntheorie_Psychologie/Lerntheorie_Psychologie.md",
     "07_Soziologische_Verortung/Soziologische_Verortung.md",
     "08_Ethische_Reflexion/Ethische_Reflexion.md",
@@ -210,11 +214,7 @@
     "03_AI_Today/KI Aktuell.md",
     "02_AI_History/KI Geschichte.md",
     "01_Prompt_Engineering/Prompt Engineering.md",
-    "_config.yml.sb-01b30507-X5o4Gw",
-    "_config.yml.sb-01b30507-DlcUjq",
     "_config.md",
-    "_config.yml",
-    "03_AI_Today",
     "Willkommen.md"
   ]
 }

@@ -33,3 +33,12 @@ Willkommen im **KI-Wiki** …
 
 ### Ethische Reflexion
 [Zum Kapitel](./08_Ethische_Reflexion/Ethische_Reflexion)
+
+## Interaktiver Graph
+
+```mermaid
+graph TD;
+  A[KI-Wiki] --> B[Prompt-Engineering];
+  A --> C[KI Geschichte];
+  A --> D[KI Aktuell];
+  A --> E[Rechtlicher Rahmen];
