@@ -1,12 +1,11 @@
 ---
 title: KI-Wiki
+layout: default
+has_children: false
 ---
-
 # KI-Wiki
 
 Willkommen im **KI-Wiki**. Dieses Wiki behandelt verschiedene Themen im Bereich der Künstlichen Intelligenz und ihrer Anwendung im Bildungsbereich.
-
-Testing storage of token.
 
 ## Themenbereiche:
 - [Prompt-Engineering](./01_Prompt_Engineering/Prompt_Engineering)
