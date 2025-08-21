@@ -186,8 +186,9 @@
   },
   "active": "5e5d51ef40f61cc2",
   "lastOpenFiles": [
-    "index.md",
+    "01_Prompt_Engineering/Prompt_Engineering.md",
     "01_Prompt_Engineering/test.md",
+    "index.md",
     "_includes/footer_custom.html",
     "_includes/head_custom.html",
     "_includes",
@@ -197,7 +198,6 @@
     "assets/style.css",
     "assets",
     "05_Anwendungen_KI/Anwendungen_KI.md",
-    "01_Prompt_Engineering/Prompt_Engineering.md",
     "02_AI_History/KI_Geschichte.md",
     "03_AI_Today/KI_Aktuell.md",
     "04_Rechtlicher_Rahmen/DSGVO.md",
