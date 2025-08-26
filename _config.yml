@@ -1,13 +1,19 @@
 title: 'KI-Wiki'
 description: 'Wiki zum Einsatz Künstlicher Intelligenz in Bildungsprozessen'
-remote_theme: just-the-docs/just-the-docs
+remote_theme: "minimal-mistakes-jekyll"
 
-just-the-docs:
-  toc: true        # On-page TOC global aktiv
-  toc_depth: 3     # meist reichen 2-3 Ebenen
-  # (collections brauchst du nicht zwingend, kannst du weglassen)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      toc: true              # On-page ToC aktivieren
+      toc_levels: "2..3"     # Tiefe der ToC (##, ###)
+      nav_order: 0
+      sidebar: true          # Globale Navigation links
 
 plugins:
-  - jekyll-remote-theme
-
-nav_sort: case_sensitive
+  - jekyll-feed
+  - jekyll-seo-tag
