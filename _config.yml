@@ -2,7 +2,7 @@ title: 'KI-Wiki'
 description: 'Wiki zum Einsatz Künstlicher Intelligenz in Bildungsprozessen'
 remote_theme: "minimal-mistakes-jekyll"
 
-minimal_mistakes_skin: "plum" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "sunrise" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 defaults:

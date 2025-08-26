@@ -1,8 +1,9 @@
 ---
 title: Prompt Engineering
-layout: default
 nav_order: 1
 has_children: true
+toc: true
+toc_sticky: true
 ---
 
 # Prompt Engineering
